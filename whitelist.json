@@ -2,5 +2,5 @@
   "whitelist": [378671965, 2299001169, 7234516671],
   "ACSDebug": true,
   "ACSWeaponTest": false,
-  "ACSAttachmentTest": false,
+  "ACSAttachmentTest": true,
 }
