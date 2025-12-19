@@ -1,5 +1,5 @@
 {
   "whitelist": [378671965, 2299001169, 7234516671],
   "ACSDebug": true,
-  "ACSWeaponTest": true
+  "ACSWeaponTest": false
 }
